@@ -38,7 +38,7 @@ Users can input their weight and height to calculate their BMI and get a classif
 ---
 
 ## **Program Screenshot**
-![BMI Calculator Screenshot](screenshot.png)
+![BMI Calculator Screenshot](https://github.com/baraaakkawi073-lgtm/BMI/blob/main/Screenshot%202026-03-24%20214826.png)
 
 ---
 
